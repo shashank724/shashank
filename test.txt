@@ -1,0 +1,57 @@
+po{ is used to link one process block to another process
+process state which refers next line
+each process has unique id}
+} state 
+ach 
+pointer is used to link one process block to another process
+process state which refers next line
+each process has unique id
+
+
+
+x-to delete the unwanted character
+
+u-to undo the last action
+
+CTRL-R to redo
+
+A-to append text at the end
+
+:wq-to save and exit
+
+:q!- to trash all the changes
+
+dw-move the cursor to the beginning of the word to delet
+
+2w-to move the cursor two words forward
+
+3e-to move the cursor to the end of third word forward
+
+0-to move the start of the line
+
+d2w-to delete two words
+
+dd-to delete the line ,numbers can be changed for deleting the number of consecutive words
+
+p-puts the previously deleted text
+
+r-to relace the letter
+
+ce-to change untill the end of the word
+
+G-to move you to the bottom of the file
+
+gg-to move you to the start of the file
+
+%to find a matching },}
+
+:s/old/new/g to substitue 'new' for 'old'
+
+/-backward search n to find next occurence
+
+?-forward search
+
+:r-filename will insert content into current file 
+
+A-inserts text after the end of line
+
