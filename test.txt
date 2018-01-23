@@ -7,7 +7,9 @@ pointer is used to link one process block to another process
 process state which refers next line
 each process has unique id
 
-
+there are two modes in vim editor namely
+1.INSERT Mode - Press INSERT key to go to the mode.
+2.COMMAND Mode - Press ESC key to go the mode
 
 x-to delete the unwanted character
 
