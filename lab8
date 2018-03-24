@@ -6,10 +6,6 @@ Hi there
 this is unix sample file
 
 
-
-
-
-
 hi
 
 cs2016a206@user:~$ awk 'NF' sample.txt
