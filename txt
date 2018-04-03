@@ -1,0 +1,6 @@
+Employee Name    Employee ID    Designation           Salary
+Jasmith             110110         Manager               15000
+Jack            12390         Software Developer     5000
+shreyas         125683        Network Engineer       4500
+kishor            122787          M.D                  30000
+kotte           125376        C.E.0                  150000
